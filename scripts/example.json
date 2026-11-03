@@ -1,0 +1,1 @@
+{"name":"automated-demo","ram_mb":1024,"cpus":1,"disk_gb":5,"image_path":"/home/user/images/linux.iso","image_type":"iso","console":"graphical"}

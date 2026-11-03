@@ -1,0 +1,5 @@
+# Copyright (C) 2026 Bharathsencha
+# SPDX-License-Identifier: GPL-3.0-only
+-r requirements.txt
+pytest>=8,<10
+httpx>=0.27,<1
